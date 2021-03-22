@@ -1,6 +1,6 @@
 <h2>Olá !</h2>
 
-#### Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo:brazil: e apaixonado por tecnologia.
+Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo:brazil: e apaixonado por tecnologia.
 
 <br>
 
