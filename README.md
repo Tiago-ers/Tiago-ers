@@ -1,10 +1,10 @@
 ## Olá !
 
-#### Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo :brazil: e apaixonado por tecnologia.
+#### Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo:brazil: e apaixonado por tecnologia.
 
 <br>
 
-## Linguagens e Stacks.
+## Linguagens e Stacks :
 
 <br>
 
@@ -20,9 +20,11 @@
 
 <br>
 
-Contato:
+## Contato:
 
 [<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
+
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiago-ers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
