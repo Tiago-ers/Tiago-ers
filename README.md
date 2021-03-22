@@ -20,7 +20,9 @@
 
 <br>
 
-## Contato:
+##
+
+Contato:
 
 [<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
 
