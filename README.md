@@ -1,10 +1,12 @@
-## Olá !
+<h2>Olá !</h2>
 
 #### Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo:brazil: e apaixonado por tecnologia.
 
 <br>
 
-## Linguagens e Stacks :
+##
+
+<h3>Linguagens e Stacks :</h3>
 
 <br>
 
@@ -22,7 +24,7 @@
 
 ##
 
-<h3>Contato:<h3>
+<h3>Contato :<h3>
 
 [<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
 
