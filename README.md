@@ -24,7 +24,7 @@
 
 ##
 
-<h3>Contato :<h3>
+<h3>Contato :</h3>
 
 [<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
 
