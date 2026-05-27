@@ -36,8 +36,11 @@ Tenho foco em arquitetura de dados, ETL/ELT, qualidade de dados e automação de
 - MLflow e Databricks
 
 ## 🌐 Contato
+<h3>Contato :</h3>
+
+[<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
 - LinkedIn: seu-link
-- Email: seu-email
+- Email: tiago_ers284@outlook.com
 
 <br>
 
@@ -55,9 +58,3 @@ Tenho foco em arquitetura de dados, ETL/ELT, qualidade de dados e automação de
 <br>
 
 ##
-
-<h3>Contato :</h3>
-
-[<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
-
-
