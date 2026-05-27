@@ -27,6 +27,7 @@ Tenho foco em arquitetura de dados, ETL/ELT, qualidade de dados e automação de
 - Processamento distribuído com PySpark
 - Validação de dados com Great Expectations
 - Arquitetura de dados em Azure / Databricks
+- Orquestração de ETL com Airflow + dbt + DuckDB
 
 ## 📚 Atualmente estudando
 - Data Architecture
