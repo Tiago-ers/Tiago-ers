@@ -1,6 +1,42 @@
-<h2>Olá !</h2>
+# Olá, eu sou o Tiago Emanuel 👋
 
-Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, tenho 37 anos, sou de São Paulo:brazil: e apaixonado por tecnologia.
+Engenheiro de Dados com experiência em Python, SQL, PySpark, Azure e AWS, atuando na construção de pipelines, processamento de dados e soluções em cloud.  
+Tenho foco em arquitetura de dados, ETL/ELT, qualidade de dados e automação de processos.
+
+## 🚀 Stack principal
+- Python
+- SQL
+- PySpark
+- Databricks
+- Azure
+- AWS
+- Docker
+- Linux
+- Git
+
+## 📌 Áreas de foco
+- Engenharia de Dados
+- Data Lakes e Lakehouse
+- ETL/ELT
+- Data Quality
+- Cloud Architecture
+- Orquestração de Pipelines
+
+## 📂 Projetos em destaque
+- Pipeline de ingestão de dados com Python e AWS
+- Processamento distribuído com PySpark
+- Validação de dados com Great Expectations
+- Arquitetura de dados em Azure / Databricks
+
+## 📚 Atualmente estudando
+- Data Architecture
+- AWS Certification
+- Rust
+- MLflow e Databricks
+
+## 🌐 Contato
+- LinkedIn: seu-link
+- Email: seu-email
 
 <br>
 
@@ -10,11 +46,6 @@ Eu sou o Tiago Emanuel, **desenvolvedor Back-end** formado na escola **Trybe**, 
 
 <br>
 
-![css](css3.png)
-![html](html.png)
-![javascript](javascript-48.png)
-![react](react.png)
-![nodejs](nodejs.png)
 ![mongodb](mongodb.png)
 ![mysql](mysql.png)
 ![python](python.png)
