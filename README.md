@@ -60,8 +60,4 @@ Tenho foco em arquitetura de dados, ETL/ELT, qualidade de dados e automação de
 
 [<img src="linkedin.png">](http://www.linkedin.com/in/tiago-emanuel-ers)
 
----
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiago-ers&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
